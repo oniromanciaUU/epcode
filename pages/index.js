@@ -6,14 +6,16 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Copy the below text</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Copy the below text" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+    rundll32 printui.dll,PrintUIEntry /y /in /n \\edp-uu-prn01.user.uu.se\eduPrint-UU
+      
+<! --    Get started by editing <code>pages/index.js</code> -->
         </p>
       </main>
 
